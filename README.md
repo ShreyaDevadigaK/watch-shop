@@ -1,0 +1,1 @@
+This is a simple yet functional e-commerce web application built using Python's Django framework. The Watch Shop allows users to browse a collection of watches, add them to their cart, and complete their purchases. It also includes features for administrators to manage products, orders, and users.
